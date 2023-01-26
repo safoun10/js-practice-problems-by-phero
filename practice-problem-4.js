@@ -5,7 +5,6 @@
 
 var momGaveTheNumber = 119  ;
 var divideItBy = 5;
-
 var moduloIs = momGaveTheNumber % divideItBy;
 
 console.log(moduloIs);
