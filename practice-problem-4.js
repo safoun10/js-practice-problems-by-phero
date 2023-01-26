@@ -8,4 +8,4 @@ var divideItBy = 5;
 
 var moduloIs = momGaveTheNumber % divideItBy;
 
-console.log(moduloIs)
+console.log(moduloIs);

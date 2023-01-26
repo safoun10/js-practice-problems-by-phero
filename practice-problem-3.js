@@ -8,4 +8,4 @@ var secondString = "an awesome web developer";
 
 var oneLineOutput = firstString + " " + secondString;
 
-console.log(oneLineOutput)
+console.log(oneLineOutput);
